@@ -187,17 +187,6 @@ F 3 "" H 6200 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L LM393 U3
-U 1 1 59B61200
-P 7800 1700
-F 0 "U3" H 8141 1746 50  0000 L CNN
-F 1 "LM393" H 8141 1655 50  0000 L CNN
-F 2 "Housings_DIP:DIP-8_W7.62mm_Socket_LongPads" H 7800 1700 50  0001 C CNN
-F 3 "" H 7800 1700 50  0001 C CNN
-	1    7800 1700
-	1    0    0    -1  
-$EndComp
-$Comp
 L C C1
 U 1 1 59B618DC
 P 3300 3500
@@ -467,7 +456,7 @@ U 1 1 59B6C462
 P 2050 2400
 F 0 "U1" H 2050 2978 50  0000 C CNN
 F 1 "NE555" H 2050 2887 50  0000 C CNN
-F 2 "Housings_DIP:DIP-8_W7.62mm_Socket_LongPads" H 2050 2400 50  0001 C CNN
+F 2 "Housings_DIP:DIP-8_W7.62mm_LongPads" H 2050 2400 50  0001 C CNN
 F 3 "" H 2050 2400 50  0001 C CNN
 	1    2050 2400
 	1    0    0    -1  
@@ -685,4 +674,29 @@ F 3 "" H 7700 900 50  0001 C CNN
 	1    7700 900 
 	1    0    0    -1  
 $EndComp
+Text Label 2500 2000 0    60   ~ 0
+TR
+Text Label 2750 2400 0    60   ~ 0
+DIS
+Text Label 2750 2600 0    60   ~ 0
+THR
+Text Label 850  1600 0    60   ~ 0
+VCC
+Text Label 2650 1600 0    60   ~ 0
+VDD
+Text Label 6800 1550 0    60   ~ 0
+5v
+$Comp
+L TL071 U3
+U 1 1 59B75E66
+P 7800 1700
+F 0 "U3" H 8141 1746 50  0000 L CNN
+F 1 "TL071" H 8141 1655 50  0000 L CNN
+F 2 "Housings_DIP:DIP-8_W7.62mm_LongPads" H 7850 1750 50  0001 C CNN
+F 3 "" H 7950 1850 50  0001 C CNN
+	1    7800 1700
+	1    0    0    -1  
+$EndComp
+NoConn ~ 7800 2000
+NoConn ~ 7900 2000
 $EndSCHEMATC
