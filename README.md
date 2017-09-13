@@ -49,7 +49,10 @@ Las resistencias son todas de 1/8W o 1/4W. Las llaves/switches y la batería se 
 
 ## Licencia
 
-RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter.com/Envido32), basado en el diseño presentado en esta serie de videos: *The Post Apocalyptic Inventor* 
+RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter.com/Envido32), basado en el diseño presentado en esta serie de videos: 
+
+*The Post Apocalyptic Inventor* 
+
 https://www.youtube.com/watch?v=E_Nsf0uU8IY&list=PLxaGnte1Dq0my2dtPL5y8sPR7xYXRrOCb
 
 Libre para utilizar, modificar, compartir y demás bajo los términos de la licencia [CERN Open Hardware Licence v1.2](LICENSE).
