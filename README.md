@@ -1,8 +1,13 @@
 # rfid-zapper
 
+![RFID Zapper](doc/rfidzapperlogo.png)
+
+
 RFID Zapper sirve para quemar, dejando fuera de funcionamiento de forma irreversible los chips tipo RFIF como el que se encuentra en la tarjeta SUBE, pasaporte, boletas de voto electrónico, entre otros, sin dejar marca visible en absoluto ni emitir ruido alguno. 
 
 Este dispositivo debe utilizarse SOLO con fines didácticos o de pruebas. El mal uso del mismo **puede ocasionar serios daños en dispositivos electrónicos.**
+
+![Alto Voltaje](doc/high-voltage.png)
 
 **ATENCIÓN: Este dispositivo tiene una salida en ALTO VOLTAJE. Puede ocasionar daños en el organismo o incluso la muerte si se aplica la descarga sobre una persona en forma directa sin antena directa. Debe manipularse adecuadamente. NO utilizar sin protección adecuada.**
 
@@ -48,6 +53,8 @@ Low-Noise JFET-Input Operational Amplifier | TL071-RESCUE-RFIDZapper | U3 | TL07
 Las resistencias son todas de 1/8W o 1/4W. Las llaves/switches y la batería se conectan con borneras o pines. Es recomendable incorporar un pequeño disipador al Q2 (P3NB90).
 
 ## Licencia
+
+![Open Source Hardware](doc/Open-source-hardware-logo.svg)
 
 RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter.com/Envido32), basado en el diseño presentado en esta serie de videos: 
 
