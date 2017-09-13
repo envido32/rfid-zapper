@@ -4,7 +4,7 @@ RFID Zapper sirve para quemar, dejando fuera de funcionamiento de forma irrevers
 
 Este dispositivo debe utilizarse SOLO con fines didácticos o de pruebas. El mal uso del mismo **puede ocasionar serios daños en dispositivos electrónicos.**
 
-**ATENCIÓN: Este dispositivo tiene una salida en ALTO VOLTAJE. Puede ocasionar daños en el organismo o incluso la muerte si se aplica la descarga sobre una persona en forma directa sin antena directa. Debe manipularse adecuadamente. NO utilizar sin protección adecuada.
+**ATENCIÓN: Este dispositivo tiene una salida en ALTO VOLTAJE. Puede ocasionar daños en el organismo o incluso la muerte si se aplica la descarga sobre una persona en forma directa sin antena directa. Debe manipularse adecuadamente. NO utilizar sin protección adecuada.**
 
 ## Esquema eléctrico
 
@@ -49,6 +49,7 @@ Las resistencias son todas de 1/8W o 1/4W. Las llaves/switches y la batería se 
 
 ## Licencia
 
-RFID Zapper es un proyecto libre realizado por [*Manolo* Cajide Maidana](https://twitter.com/Envido32), basado en el diseño presentado en esta serie de videos: https://www.youtube.com/watch?v=Ko0mO3FEB50
+RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter.com/Envido32), basado en el diseño presentado en esta serie de videos: *The Post Apocalyptic Inventor* 
+https://www.youtube.com/watch?v=E_Nsf0uU8IY&list=PLxaGnte1Dq0my2dtPL5y8sPR7xYXRrOCb
 
 Libre para utilizar, modificar, compartir y demás bajo los términos de la licencia [CERN Open Hardware Licence v1.2](LICENSE).
