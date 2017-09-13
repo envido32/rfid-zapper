@@ -1,0 +1,28 @@
+G04 Gerber job file with board parameters*
+%TF.FileFunction,JobInfo*%
+%TF.Part,SinglePCB*%
+G04 Single PCB fabrication instructions*
+%TF.GenerationSoftware,KiCad,Pcbnew,no-vcs-found-8c7175b~60~ubuntu14.04.1*%
+%TF.CreationDate,2017-09-13T00:57:25-03:00*%
+%TF.ProjectId,RFIDZapper,524649445A61707065722E6B69636164,rev?*%
+%MOMM*%
+G04 Overall board parameters*
+%TJ.B.Size.X,0.000*%
+%TJ.B.Size.Y,0.000*%
+%TJ.B.LayerNum,2*%
+%TJ.B.Overall.Thickness,1.600*%
+%TJ.B.Legend.Present,Both*%
+%TJ.B.SolderMask.Present,No*%
+G04 board design rules*
+%TJ.D.PadToPad.Outer,0.500*%
+%TJ.D.PadToTrack.Outer,0.500*%
+%TJ.D.TrackToTrack.Outer,0.500*%
+%TJ.D.MinLineWidth.Outer,1.000*%
+%TJ.D.TrackToRegion.Outer,0.508*%
+%TJ.D.RegionToRegion.Outer,0.508*%
+G04 Layer Structure*
+%TJ.L."Copper,L1,Top",Positive,RFIDZapper-F.Cu.gbr*%
+%TJ.L."Copper,L2,Bot",Positive,RFIDZapper-B.Cu.gbr*%
+%TJ.L."Legend,Bot",Positive,RFIDZapper-B.SilkS.gbr*%
+%TJ.L."Legend,Top",Positive,RFIDZapper-F.SilkS.gbr*%
+M02*
