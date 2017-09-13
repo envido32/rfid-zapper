@@ -1,8 +1,10 @@
 # rfid-zapper
 
-RFID Zapper sirve para *freír* (quemar, dejar sin funcionamiento) de forma irreversible los chips como el que se encuentra en la tarjeta *SUBE*, pasaporte, boletas del sistema *Vot.Ar*/*Boleta Única Electrónica*, etc, sin dejar marca visible en absoluto. Este dispositivo debe utilizarse SOLO con fines didácticos o de pruebas. El mal uso del mismo **puede ocasionar serios daños en dispositivos electrónicos**.
+RFID Zapper sirve para quemar, dejando fuera de funcionamiento de forma irreversible los chips tipo RFIF como el que se encuentra en la tarjeta SUBE, pasaporte, boletas de voto electrónico, entre otros, sin dejar marca visible en absoluto ni emitir ruido alguno. 
 
-**ATENCIÓN**: **Este dispositivo puede ocasionar daños en el organizmo o incluso la muerte si se aplica la descarga sobre una persona en forma directa sin antena directa**. Debe manipularse adecuadamente. NO utilizar sin carcaza o protección adecuada.
+Este dispositivo debe utilizarse SOLO con fines didácticos o de pruebas. El mal uso del mismo **puede ocasionar serios daños en dispositivos electrónicos.**
+
+**ATENCIÓN: Este dispositivo tiene una salida en ALTO VOLTAJE. Puede ocasionar daños en el organismo o incluso la muerte si se aplica la descarga sobre una persona en forma directa sin antena directa. Debe manipularse adecuadamente. NO utilizar sin protección adecuada.
 
 ## Esquema eléctrico
 
