@@ -1,10 +1,6 @@
-update=Mon 11 Sep 2017 04:01:16 AM ART
+update=Wed 13 Sep 2017 10:07:08 PM ART
 version=1
 last_client=kicad
-[general]
-version=1
-RootSch=
-BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -70,3 +66,5 @@ NetFmtName=
 SpiceAjustPassiveValues=0
 LabSize=60
 ERC_TestSimilarLabels=1
+[general]
+version=1
