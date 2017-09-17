@@ -52,11 +52,13 @@ Low-Noise JFET-Input Operational Amplifier | TL071-RESCUE-RFIDZapper | U3 | TL07
 
 Las resistencias son todas de 1/8W o 1/4W. Las llaves/switches y la batería se conectan con borneras o pines. Es recomendable incorporar un pequeño disipador al Q2 (P3NB90).
 
-## Work in Progress
+## Lite Edition
 
-Lite Edition: Menos componentes, más compacto.
+Menos componentes, más compacto.
 
 ![Esquema eléctrico](doc/lite/schemlite.png)
+
+![PCB](doc/lite/layout.png)
 
 ![PCB visualización](doc/lite/3dimg01b.png)
 
