@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 2)
+    (drawings 3)
     (tracks 150)
     (zones 0)
     (modules 26)
@@ -62,7 +62,7 @@
     (grid_origin 136.144 67.056)
     (visible_elements FFFFFF7F)
     (pcbplotparams
-      (layerselection 0x00030_ffffffff)
+      (layerselection 0x000f0_ffffffff)
       (usegerberextensions false)
       (usegerberattributes true)
       (usegerberadvancedattributes true)
@@ -2261,6 +2261,9 @@
       (xy -2.629647 1.344706) (xy -2.629647 1.135529) (xy -1.165412 1.135529) (xy -1.165412 2.599765)) (layer F.SilkS) (width 0.01))
   )
 
+  (gr_text "WARNING! High Voltage!" (at 137.394 82.556) (layer F.SilkS) (tstamp 59BE21F5)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_text "CERN Licence v1.2" (at 135.894 127.806) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
