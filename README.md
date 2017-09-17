@@ -54,7 +54,7 @@ Las resistencias son todas de 1/8W o 1/4W. Las llaves/switches y la batería se 
 
 ## Work in Progress
 
-Lite Edition: Menos componentes, mas ocmpacto.
+Lite Edition: Menos componentes, más compacto.
 
 ![Esquema eléctrico](doc/lite/schemlite.png)
 
