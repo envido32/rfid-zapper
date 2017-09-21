@@ -11,11 +11,31 @@ Este dispositivo debe utilizarse SOLO con fines didácticos o de pruebas. El mal
 
 **ATENCIÓN: Este dispositivo tiene una salida en ALTO VOLTAJE. Puede ocasionar daños en el organismo o incluso la muerte si se aplica la descarga sobre una persona en forma directa sin antena directa. Debe manipularse adecuadamente. NO utilizar sin protección adecuada.**
 
-## Esquema eléctrico
+## Licencia
+
+![Open Source Hardware](doc/open-source-hardware.png)
+
+RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter.com/Envido32), basado en el diseño presentado en la serie de videos de [*The Post Apocalyptic Inventor*](https://www.youtube.com/watch?v=E_Nsf0uU8IY&list=PLxaGnte1Dq0my2dtPL5y8sPR7xYXRrOCb)
+
+Libre para utilizar, modificar, compartir y demás bajo los términos de la licencia [CERN Open Hardware Licence v1.2](LICENSE).
+
+
+## Lite Edition
+
+Menos componentes, más compacto.
+
+![Esquema eléctrico](doc/lite/schemlite.png)
+
+![PCB](doc/lite/layout.png)
+
+![PCB visualización](doc/lite/3dimg01b.png)
+
+![PCB visualización](doc/lite/3dimg02b.png)
+
+
+## Original Edition
 
 ![Esquema eléctrico](doc/schem.png)
-
-## Placa
 
 ![PCB](doc/layout.png)
 
@@ -51,25 +71,3 @@ Switch | SW_SPST | SW_SPST3 | SW_ZAP | bornier2 | 1
 Low-Noise JFET-Input Operational Amplifier | TL071-RESCUE-RFIDZapper | U3 | TL071 | DIP-8_W7.62mm_LongPads | 1
 
 Las resistencias son todas de 1/8W o 1/4W. Las llaves/switches y la batería se conectan con borneras o pines. Es recomendable incorporar un pequeño disipador al Q2 (P3NB90).
-
-## Lite Edition
-
-Menos componentes, más compacto.
-
-![Esquema eléctrico](doc/lite/schemlite.png)
-
-![PCB](doc/lite/layout.png)
-
-![PCB visualización](doc/lite/3dimg01b.png)
-
-![PCB visualización](doc/lite/3dimg02b.png)
-
-## Licencia
-
-![Open Source Hardware](doc/open-source-hardware.png)
-
-RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter.com/Envido32), basado en el diseño presentado en la serie de videos de *The Post Apocalyptic Inventor* 
-
-https://www.youtube.com/watch?v=E_Nsf0uU8IY&list=PLxaGnte1Dq0my2dtPL5y8sPR7xYXRrOCb
-
-Libre para utilizar, modificar, compartir y demás bajo los términos de la licencia [CERN Open Hardware Licence v1.2](LICENSE).
