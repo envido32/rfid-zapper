@@ -3,7 +3,7 @@
 ![RFID Zapper](doc/rfidzapperlogo.png)
 
 
-RFID Zapper sirve para quemar, dejando fuera de funcionamiento de forma irreversible los chips tipo RFID como el que se encuentran en llaves de puertas electronicas, tarjetas de transporte público, pasaporte, boletas de voto electrónico, etc. No deja marca visible en absoluto ni emite ruido alguno. 
+RFID Zapper sirve para quemar, dejando fuera de funcionamiento de forma irreversible los chips tipo RFID como el que se encuentran en llaves de puertas electronicas, [tarjetas de transporte público](https://www.sube.gob.ar/), [pasaportes](https://www.digitalcourage.de/), [boletas de voto electrónico](https://noalvotoelectronico.com/), etc. No deja marca visible en absoluto ni emite ruido alguno. 
 
 Este dispositivo debe utilizarse SOLO con fines didácticos o de pruebas. El mal uso del mismo **puede ocasionar serios daños en dispositivos electrónicos.**
 
