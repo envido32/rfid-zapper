@@ -23,7 +23,7 @@ Libre para utilizar, modificar, compartir y demás bajo los términos de la lice
 
 Se trata de un circuito elevador de tensión alimentado por una batería alcalina de 9v. Este elevador carga el capacitor y luego al cerrar el segundo interruptor se descarga el capacitor a través de la antena RFID. Esto genera un pulso electromagnético que al ser captado por un chip RFID lo utilizara como alimentación. Al ser un pulso de alta intensidad (y corta duración) la energía absorbida por el chip sera más alta que la soportada por el integrado probocándole un daño irreparable de forma totalmente silenciosa e invisible.
 
-El circuito elevador de tensión es del tipo boost alimentado por una batería alcalina de 9v. Este circuito es controlado por un PWM básico realizado con el Timer 555 y controlado por el potenciómetro, se recomienda evitar un ciclo de trabajo del PWM mayor al 50% para evitar danos a la batería. Una vez cargado el capacitor el circuito de feedback enciende el LED y desactiva el Timer 555.
+El circuito elevador de tensión es del tipo [boost](https://en.wikipedia.org/wiki/Boost_converter) alimentado por una [batería alcalina de 9v](https://en.wikipedia.org/wiki/Nine-volt_battery). Este circuito es controlado por un [PWM](https://en.wikipedia.org/wiki/Pulse-width_modulation) básico realizado con el [Timer 555](https://en.wikipedia.org/wiki/555_timer_IC) y controlado por el potenciómetro, se recomienda evitar un ciclo de trabajo del PWM mayor al 50% para evitar daños a la batería. Una vez cargado el capacitor el circuito de feedback enciende el LED y desactiva el Timer 555.
 
 ## Lite Edition
 
