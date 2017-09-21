@@ -9,7 +9,7 @@ Este dispositivo debe utilizarse SOLO con fines didácticos o de pruebas. El mal
 
 ![Alto Voltaje](doc/high-voltage-sm.png)
 
-**ATENCIÓN: Este dispositivo tiene una salida en ALTO VOLTAJE. Puede ocasionar daños en el organismo o incluso la muerte si se aplica la descarga sobre una persona en forma directa sin antena directa. Debe manipularse adecuadamente. No utilizar sin protección adecuada.**
+**ATENCIÓN! Este dispositivo tiene una salida en ALTO VOLTAJE. Puede ocasionar daños en el organismo o incluso la muerte si se aplica la descarga sobre el cuerpo. Debe manipularse adecuadamente. No utilizar sin protección adecuada.**
 
 ## Licencia
 
