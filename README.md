@@ -27,7 +27,12 @@ El circuito elevador de tensión es del tipo [boost](https://en.wikipedia.org/wi
 
 ## Lite Edition
 
-Menos componentes, más compacto.
+Menos componentes, más compacto. 
+
+
+![PCB from PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)
+
+[Order in PCBWay](https://www.pcbway.com/project/shareproject/W50258ASN1_RFIDZapper.html)
 
 ![Esquema eléctrico](doc/lite/schemlite.png)
 
