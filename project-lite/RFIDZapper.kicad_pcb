@@ -25,7 +25,7 @@
     (41 Cmts.User user)
     (42 Eco1.User user)
     (43 Eco2.User user)
-    (44 Edge.Cuts user)
+    (44 Edge.Cuts user hide)
     (45 Margin user)
     (46 B.CrtYd user)
     (47 F.CrtYd user)
@@ -62,7 +62,7 @@
     (grid_origin 154.644 87.806)
     (visible_elements FFFFFF7F)
     (pcbplotparams
-      (layerselection 0x000f0_ffffffff)
+      (layerselection 0x290e4_ffffffff)
       (usegerberextensions true)
       (usegerberattributes true)
       (usegerberadvancedattributes true)
@@ -137,13 +137,13 @@
     (add_net RST)
   )
 
-  (module RF_Modules:NFC_ANTENNA2_INSIDE_CONNECTION (layer B.Cu) (tedit 59BDE4FE) (tstamp 59BAADB9)
+  (module RF_Modules:NFC_ANTENNA2_INSIDE_CONNECTION (layer B.Cu) (tedit 59C6F062) (tstamp 59BAADB9)
     (at 65.144 133.056)
     (path /59B6A130)
-    (fp_text reference AE1 (at 3.556 -4.318) (layer B.SilkS)
+    (fp_text reference AE1 (at 3.556 -4.318) (layer B.SilkS) hide
       (effects (font (size 0.3 0.3) (thickness 0.075)) (justify mirror))
     )
-    (fp_text value Antenna_RFID (at 4.572 4.064) (layer B.SilkS)
+    (fp_text value Antenna_RFID (at 4.572 4.064) (layer B.SilkS) hide
       (effects (font (size 0.3 0.3) (thickness 0.075)) (justify mirror))
     )
     (fp_line (start 56.4 23) (end 57.9 21.5) (layer B.Cu) (width 0.36))
@@ -2549,6 +2549,21 @@
         (xy 113.551809 120.713809) (xy 113.692157 120.503765) (xy 113.74144 120.256) (xy 113.74144 117.856) (xy 113.692157 117.608235)
         (xy 113.551809 117.398191) (xy 113.341765 117.257843) (xy 113.094 117.20856) (xy 113.029 117.20856) (xy 113.029 116.806)
         (xy 112.942603 116.371654) (xy 112.696566 116.003434) (xy 110.624132 113.931) (xy 118.146416 113.931)
+      )
+    )
+  )
+  (zone (net 0) (net_name "") (layer Edge.Cuts) (tstamp 59C6E92E) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 124.894 158.056) (xy 62.894 158.056) (xy 62.894 108.056) (xy 124.894 108.056)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 124.767 157.929) (xy 63.021 157.929) (xy 63.021 108.183) (xy 124.767 108.183)
       )
     )
   )
