@@ -31,13 +31,14 @@ Menos componentes, más compacto.
 
 ![Esquema eléctrico](doc/lite/schemlite.png)
 
-[***Made with***](http://kicad-pcb.org/)
+[***Made with KiCAD***](http://kicad-pcb.org/)
 
 ![Made With KiCAD](doc/kicad_logo_small.png) 
 
-![PCB from PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)
 
 [***Order in PCBWay***](https://www.pcbway.com/project/shareproject/RFID_Zapper.html)
+
+![PCB from PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)
 
 ![PCB](doc/lite/layout.png)
 
@@ -67,5 +68,3 @@ Resistor | Generic | R1 R6 | 330ohm 1/8w | L3.6mm D1.6mm P7.62mm | 2
 Resistor | Generic | R3 R9 | 150kohm 1/8w | L3.6mm D1.6mm P7.62mm | 2
 Resistor | Generic | R8 | 10Mohm 1/8w | L3.6mm D1.6mm P7.62mm | 1
 Potentionmeter | Trimmer | R2 | 500kohm 1/8w | POT | 1
-
-
