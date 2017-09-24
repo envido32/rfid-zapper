@@ -32,7 +32,7 @@ Menos componentes, más compacto.
 
 ![PCB from PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)
 
-[Order in PCBWay](https://www.pcbway.com/project/shareproject/W50258ASN1_RFIDZapper.html)
+[Order in PCBWay](https://www.pcbway.com/project/shareproject/RFID_Zapper.html)
 
 ![Esquema eléctrico](doc/lite/schemlite.png)
 
