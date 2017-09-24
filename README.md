@@ -19,10 +19,6 @@ RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter
 
 Libre para utilizar, modificar, compartir y demás bajo los términos de la licencia [CERN Open Hardware Licence v1.2](LICENSE).
 
-## [Made with](http://kicad-pcb.org/)
-
-![Made With KiCAD](doc/kicad_logo_small.png) 
-
 ## Principio de funcionamiento
 
 Se trata de un circuito elevador de tensión alimentado por una batería alcalina de 9v. Este elevador carga el capacitor y luego al cerrar el segundo interruptor se descarga el capacitor a través de la antena RFID. Esto genera un pulso electromagnético que al ser captado por un chip RFID lo utilizara como alimentación. Al ser un pulso de alta intensidad (y corta duración) la energía absorbida por el chip sera más alta que la soportada por el integrado probocándole un daño irreparable de forma totalmente silenciosa e invisible.
@@ -34,6 +30,10 @@ El circuito elevador de tensión es del tipo [boost](https://en.wikipedia.org/wi
 Menos componentes, más compacto. 
 
 ![Esquema eléctrico](doc/lite/schemlite.png)
+
+## [Made with](http://kicad-pcb.org/)
+
+![Made With KiCAD](doc/kicad_logo_small.png) 
 
 ![PCB from PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)
 
