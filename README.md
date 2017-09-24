@@ -13,11 +13,15 @@ Este dispositivo debe utilizarse SOLO con fines didácticos o de pruebas. El mal
 
 ## Licencia
 
-![Open Source Hardware](doc/open-source-hardware.png)
+![Open Source Hardware](doc/open-source-hardware.png) 
 
-RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter.com/Envido32), basado en el diseño presentado en la serie de videos de [*The Post Apocalyptic Inventor*](https://www.youtube.com/watch?v=E_Nsf0uU8IY&list=PLxaGnte1Dq0my2dtPL5y8sPR7xYXRrOCb)
+RFID Zapper es un proyecto libre realizado por [*Manolo Envido*](https://twitter.com/Envido32), basado en el diseño presentado en la serie de videos de [*The Post Apocalyptic Inventor*](https://www.youtube.com/watch?v=E_Nsf0uU8IY&list=PLxaGnte1Dq0my2dtPL5y8sPR7xYXRrOCb).
 
 Libre para utilizar, modificar, compartir y demás bajo los términos de la licencia [CERN Open Hardware Licence v1.2](LICENSE).
+
+## [Made with](http://kicad-pcb.org/)
+
+![Made With KiCAD](doc/kicad_logo_small.png) 
 
 ## Principio de funcionamiento
 
