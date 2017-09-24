@@ -31,14 +31,13 @@ Menos componentes, más compacto.
 
 ![Esquema eléctrico](doc/lite/schemlite.png)
 
-[***Made with KiCAD***](http://kicad-pcb.org/)
+***Made with KiCAD***
 
-![Made With KiCAD](doc/kicad_logo_small.png) 
+[![Made with KiCAD](doc/kicad_logo_small.png)](http://kicad-pcb.org/)
 
+***Order in PCBWay***
 
-[***Order in PCBWay***](https://www.pcbway.com/project/shareproject/RFID_Zapper.html)
-
-![PCB from PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)
+[![Order in PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/RFID_Zapper.html)
 
 ![PCB](doc/lite/layout.png)
 
