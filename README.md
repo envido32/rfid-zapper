@@ -67,3 +67,6 @@ Resistor | Generic | R1 R6 | 330ohm 1/8w | L3.6mm D1.6mm P7.62mm | 2
 Resistor | Generic | R3 R9 | 150kohm 1/8w | L3.6mm D1.6mm P7.62mm | 2
 Resistor | Generic | R8 | 10Mohm 1/8w | L3.6mm D1.6mm P7.62mm | 1
 Potentionmeter | Trimmer | R2 | 500kohm 1/8w | POT | 1
+
+Costo de los materiales total aproximado (a Septiembre 2017, argentina): 
+*10 U$D*
