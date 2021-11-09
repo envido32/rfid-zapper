@@ -33,7 +33,7 @@ Menos componentes, más compacto.
 
 ***Made with KiCAD***
 
-[![Made with KiCAD](doc/kicad_logo_small.png)](http://kicad-pcb.org/)
+[![Made with KiCAD](doc/kicad_logo_small.png)](http://kicad.org/)
 
 ***Order in PCBWay***
 
